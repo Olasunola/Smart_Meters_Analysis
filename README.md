@@ -1,9 +1,7 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Statistical-Analysis-Project
-*Paul Musco, Mayowa Akinyele and Anton Neike*
-
-*Data-ber-08-20, Berlin & 16/09/2020*
+*Paul Musco, Olasunkanmi Olayemi, Mayowa Akinyele and Anton Neike*
 
 ## Content
 - [Project Description](#project-description)
